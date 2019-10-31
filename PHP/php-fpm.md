@@ -23,4 +23,5 @@ location ~ [^/]\.php(/|$) {
 **参考**
 
 https://github.com/neex/phuip-fpizdam/
+
 https://github.com/vulhub/vulhub/tree/master/php/CVE-2019-11043
