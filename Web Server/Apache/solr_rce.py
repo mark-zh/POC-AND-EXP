@@ -42,11 +42,7 @@ def main(url,cmd):
 if __name__ == '__main__':
 	print main(sys.argv[1],sys.argv[2])
 
-'''
-url = 'http://10.211.55.13:8983/'
 
-print settrue(url)
-'''
 
 
 
